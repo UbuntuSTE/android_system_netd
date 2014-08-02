@@ -19,7 +19,7 @@ LOCAL_SRC_FILES:=                                      \
                   PppController.cpp                    \
                   ResolverController.cpp               \
                   SecondaryTableController.cpp         \
-                  SoftapController.cpp                 \
+                  SoftapControllerTI.cpp               \
                   TetherController.cpp                 \
                   oem_iptables_hook.cpp                \
                   UidMarkMap.cpp                       \
